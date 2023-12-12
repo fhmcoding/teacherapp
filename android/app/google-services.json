@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629691375021",
+    "project_id": "sofia-teacher",
+    "storage_bucket": "sofia-teacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629691375021:android:c4a8c10bed99c4823f9524",
+        "android_client_info": {
+          "package_name": "com.sofiaecoleteacher.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9AuSt4Bt2dPg4WO4xTHlL961fTj1Invo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
